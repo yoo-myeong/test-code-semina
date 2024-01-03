@@ -1,5 +1,5 @@
 export class A {
     public getNumber() {
-        return 1
+        return 2
     }
 }

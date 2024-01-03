@@ -6,6 +6,6 @@ export class B {
     ) {}
 
     getZero() {
-        return this.a.getNumber() - 1;
+        return this.a.getNumber() - 2;
     }
 }
